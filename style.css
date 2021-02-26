@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+*{
+    padding:0;
+margin:0;
+}
+body {
+    text-align:center;
+    align-items: center;
+    background-color:#836ac7;
+    font-family: 'RocknRoll One', sans-serif;
+}
+#heading {
+    margin-top:30px;
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 60px;
+}
+#form_wrapper {width: 420px;
+height:450px;
+margin:30px auto auto 560px;
+background-color:#000;
+text-align:center;
+font-family: 'RocknRoll One', sans-serif;
+border-radius:10px;
+border-right:2px groove #333;
+box-shadow:10px 10px 6px #666666;}
+
+#formone{padding-top:10px;}
+
+#display {width:400px;
+height:40px;
+font-size:18px;
+color:black;
+margin:5px 5px;
+border:5px inset black;
+border-bottom:1px inset #FFF;
+border-right:1px inset #FFF;
+background-color:#D5F192;}
+
+.button {width:60px;
+height:60px;
+margin:1px;
+font-family: 'RocknRoll One', sans-serif;}
+
+.number {font-size:16px;
+font-weight:bold;
+font-family: 'RocknRoll One', sans-serif;}
+
+.opps {font-size:18px;     font-family: 'RocknRoll One', sans-serif;}
+
+.three {font-weight:bold;
+background-color:#FBB9A8;
+font-family: 'RocknRoll One', sans-serif;
+}
+.three:hover{background-color:#F66;}
